@@ -1,6 +1,6 @@
 <?php
 
-set_include_path(get_include_path() . PATH_SEPARATOR . 'Classes/');
+set_include_path(get_include_path() . PATH_SEPARATOR . 'PHPExcel/Classes/');
 include 'PHPExcel.php';
 include 'PHPExcel/IOFactory.php';
 
